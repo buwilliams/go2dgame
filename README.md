@@ -15,9 +15,9 @@ I'm grateful to the people who made go-gl and OpenGL. I am impressed with the
 amount of work people have contributed to these efforts over the years.
 
 ### getting started
-`go get github.com/go-gl/gl`
-`go get -u github.com/go-gl/glfw/v3.1/glfw`
-`go get -u github.com/buwilliams/go2dgame`
+- `go get github.com/go-gl/gl`
+- `go get -u github.com/go-gl/glfw/v3.1/glfw`
+- `go get -u github.com/buwilliams/go2dgame`
 
 ### learning
 
