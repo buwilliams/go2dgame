@@ -1,6 +1,6 @@
 # go2dgame
 
-## experimenting with go-gl and go game development
+experimenting with go-gl and go game development
 
 ### introduction
 After watching the [talk from GopherCon](https://www.youtube.com/watch?v=aiv1JOfMjm0)
@@ -14,5 +14,5 @@ examples.
 I'm grateful to the people who made go-gl and OpenGL. I am impressed with the
 amount of work people have contributed to these efforts over the years.
 
-## getting started
+### getting started
 `go get https://github.com/buwilliams/go2dgame.git`
