@@ -15,4 +15,13 @@ I'm grateful to the people who made go-gl and OpenGL. I am impressed with the
 amount of work people have contributed to these efforts over the years.
 
 ### getting started
-`go get https://github.com/buwilliams/go2dgame.git`
+`go get github.com/go-gl/gl`
+`go get -u github.com/go-gl/glfw/v3.1/glfw`
+`go get -u github.com/buwilliams/go2dgame`
+
+### learning
+
+- go-gl package has an examples folder which was helpful in getting my first glfw
+window created.
+- the glfw code reads easily so I was able to begin to understand the input
+  subsystem
