@@ -25,3 +25,7 @@ amount of work people have contributed to these efforts over the years.
 window created.
 - the glfw code reads easily so I was able to begin to understand the input
   subsystem
+- because go-gl is [calling C code within Go](https://golang.org/cmd/cgo/) to do opengl and glfw, the
+  documentation/tutorials for those libraries helps in writing/understanding the Go code.
+- I found [learnopengl.com](http://learnopengl.com) as a helpful resource for
+  initially [understanding why glfw is needed](http://learnopengl.com/#!Getting-started/Creating-a-window).
