@@ -1,6 +1,6 @@
 # go2dgame
 
-experimenting with go-gl and go game development
+experiments with go-gl and game development in go
 
 ### introduction
 After watching the [talk from GopherCon](https://www.youtube.com/watch?v=aiv1JOfMjm0)
