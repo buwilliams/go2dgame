@@ -1,6 +1,6 @@
 # go2dgame
 
-Experiments with [go-gl](https://github.com/go-gl) and [Go](http://golang.org) game development.
+Experiments with [go-gl](https://github.com/go-gl) and [Go](http://golang.org) 2D game development.
 
 ### introduction
 After watching the [talk from GopherCon](https://www.youtube.com/watch?v=aiv1JOfMjm0)
