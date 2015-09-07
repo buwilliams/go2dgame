@@ -29,3 +29,5 @@ window created.
   documentation/tutorials for those libraries helps in writing/understanding the Go code.
 - I found [learnopengl.com](http://learnopengl.com) as a helpful resource for
   initially [understanding why glfw is needed](http://learnopengl.com/#!Getting-started/Creating-a-window).
+- Now following a [different tutorial](http://www.opengl-tutorial.org) which uses OpenGL 3.3 (and is a bit easier
+  to follow)
