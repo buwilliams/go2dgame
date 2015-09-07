@@ -1,6 +1,6 @@
 # go2dgame
 
-Experiments with go-gl and game development in Go.
+Experiments with [go-gl](https://github.com/go-gl) and [Go](http://golang.org) game development.
 
 ### introduction
 After watching the [talk from GopherCon](https://www.youtube.com/watch?v=aiv1JOfMjm0)
@@ -15,8 +15,6 @@ I'm grateful to the people who made go-gl and OpenGL. I am impressed with the
 amount of work people have contributed to these efforts over the years.
 
 ### getting started
-- `go get github.com/go-gl/gl`
-- `go get -u github.com/go-gl/glfw/v3.1/glfw`
 - `go get -u github.com/buwilliams/go2dgame`
 
 ### learning
