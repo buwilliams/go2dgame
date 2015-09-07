@@ -28,4 +28,4 @@ window created.
 - I found [learnopengl.com](http://learnopengl.com) as a helpful resource for
   initially [understanding why glfw is needed](http://learnopengl.com/#!Getting-started/Creating-a-window).
 - Now following a [different tutorial](http://www.opengl-tutorial.org) which uses OpenGL 3.3 (and is a bit easier
-  to follow)
+  to follow although the other tutorial is deeper and still useful)
